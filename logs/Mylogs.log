@@ -1,0 +1,495 @@
+[INFO ] 2024-01-24 09:38:16.227 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 09:38:25.253 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 09:38:25.607 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 09:38:25.817 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 09:38:25.954 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 09:38:26.050 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 09:38:36.184 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 09:38:42.466 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 09:38:50.209 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 09:38:50.512 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 09:38:50.708 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 09:38:50.892 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 09:38:51.032 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 09:39:01.149 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 09:39:07.950 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 09:39:15.244 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 09:39:15.486 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 09:39:16.035 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 09:39:16.377 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 09:39:16.511 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 09:39:26.593 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 09:39:33.393 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 09:39:40.091 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 09:39:40.246 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 09:39:40.434 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 09:39:40.566 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 09:39:40.684 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 09:39:50.782 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 09:39:56.963 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 09:40:08.169 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 09:40:08.539 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 09:40:09.011 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 09:40:09.595 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 09:40:10.079 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 09:40:20.412 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 09:40:30.817 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 09:40:39.959 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 09:40:40.272 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 09:40:40.447 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 09:40:40.713 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 09:40:41.218 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 09:40:51.494 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 09:41:00.780 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 09:41:08.454 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 09:41:08.604 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 09:41:08.813 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 09:41:08.968 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 09:41:09.061 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 09:41:19.213 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 09:41:26.112 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 09:41:34.207 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 09:41:34.388 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 09:41:34.583 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 09:41:34.711 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 09:41:34.782 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 09:41:44.895 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 09:41:50.676 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 09:41:57.752 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 09:41:57.883 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 09:41:58.056 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 09:41:58.240 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 09:41:58.338 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 09:42:08.421 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 09:42:14.876 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 09:42:18.012 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 09:42:22.487 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 09:43:15.578 [main] LoginStepDefs - Displayed Message
+[INFO ] 2024-01-24 09:43:23.183 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 09:43:27.738 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 09:43:32.115 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 09:43:42.662 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 09:43:45.788 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 09:43:50.148 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 09:44:43.233 [main] LoginStepDefs - Displayed Message
+[INFO ] 2024-01-24 09:45:11.085 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 09:45:15.201 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 09:45:19.622 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 09:46:12.709 [main] LoginStepDefs - Displayed Message
+[INFO ] 2024-01-24 09:46:39.935 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 09:46:43.645 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 09:46:48.069 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 09:47:41.161 [main] LoginStepDefs - Displayed Message
+[INFO ] 2024-01-24 09:48:08.683 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 09:48:13.211 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 09:48:17.578 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 09:49:10.665 [main] LoginStepDefs - Displayed Message
+[INFO ] 2024-01-24 09:49:39.073 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 09:49:44.428 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 09:49:48.743 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 09:49:58.788 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 09:50:04.373 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 09:50:08.794 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 09:51:01.877 [main] LoginStepDefs - Displayed Message
+[INFO ] 2024-01-24 09:51:29.293 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 09:51:33.650 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 09:51:37.868 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 09:52:30.965 [main] LoginStepDefs - Displayed Message
+[INFO ] 2024-01-24 09:52:57.962 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 09:52:57.966 [main] Searchsteps - entering valid product name
+[INFO ] 2024-01-24 09:52:58.863 [main] Searchsteps - clicking on search button
+[INFO ] 2024-01-24 09:53:08.972 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 09:53:08.973 [main] Searchsteps - entering valid product name
+[INFO ] 2024-01-24 09:53:09.808 [main] Searchsteps - clicking on search button
+[INFO ] 2024-01-24 09:53:18.272 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 09:53:18.274 [main] Searchsteps - entering valid product name
+[INFO ] 2024-01-24 09:53:19.003 [main] Searchsteps - clicking on search button
+[INFO ] 2024-01-24 09:53:28.281 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 09:53:28.283 [main] Searchsteps - entering valid product name
+[INFO ] 2024-01-24 09:53:29.218 [main] Searchsteps - clicking on search button
+[INFO ] 2024-01-24 09:53:38.416 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 09:53:38.417 [main] Searchsteps - entering valid product name
+[INFO ] 2024-01-24 09:53:39.429 [main] Searchsteps - clicking on search button
+[INFO ] 2024-01-24 09:53:57.331 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-01-24 09:53:57.340 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-01-24 09:54:03.422 [main] FilterStepdefinition - Drag item price element
+[INFO ] 2024-01-24 09:54:06.877 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-01-24 09:54:09.958 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-01-24 09:54:17.092 [main] addtocarthome - Navigating to the URL
+[INFO ] 2024-01-24 09:54:17.097 [main] addtocarthome - user searches for sofa
+[INFO ] 2024-01-24 09:54:18.282 [main] addtocarthome - Then adds item to cart
+[INFO ] 2024-01-24 09:54:20.618 [main] addtocarthome - Then removes item from cart
+[INFO ] 2024-01-24 09:54:30.257 [main] addtocarthome - Navigating to the URL
+[INFO ] 2024-01-24 09:54:30.259 [main] addtocarthome - user searches for table
+[INFO ] 2024-01-24 09:54:31.566 [main] addtocarthome - Then adds item to cart
+[INFO ] 2024-01-24 09:55:00.694 [main] CheckoutSteps - User is on login page and add item to cart
+[INFO ] 2024-01-24 09:55:33.781 [main] CheckoutSteps - User is able Proceed With Valid Checkout Details
+[INFO ] 2024-01-24 09:55:53.890 [main] CheckoutSteps - User is Not able Proceed With All Null Checkout Details
+[INFO ] 2024-01-24 09:56:29.609 [main] CheckoutSteps - User is on login page and add item to cart
+[INFO ] 2024-01-24 09:56:58.848 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 09:56:58.850 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 09:57:03.156 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 09:57:03.162 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 09:57:05.273 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 09:57:07.347 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 09:57:09.432 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 09:57:11.542 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 09:57:27.678 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 09:57:33.463 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 09:57:33.468 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 09:57:40.824 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 09:57:40.839 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 09:57:42.935 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 09:57:44.995 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 09:57:47.067 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 09:57:49.175 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 09:58:05.308 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 09:58:11.987 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 09:58:11.991 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 09:58:16.459 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 09:58:16.462 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 09:58:18.572 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 09:58:20.634 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 09:58:22.721 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 09:58:24.828 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 09:58:41.000 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 09:58:49.724 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 09:58:49.726 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 09:58:53.566 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 09:58:53.568 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 09:58:55.678 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 09:58:57.747 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 09:58:59.813 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 09:59:01.875 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 09:59:17.952 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 09:59:24.440 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 09:59:24.445 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 09:59:28.962 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 09:59:28.963 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 09:59:31.041 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 09:59:33.101 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 09:59:35.173 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 09:59:37.235 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 09:59:53.332 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 09:59:59.542 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 09:59:59.543 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 10:00:03.302 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 10:00:03.303 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 10:00:05.417 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 10:00:07.514 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 10:00:09.590 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 10:00:11.700 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 10:00:27.840 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 10:00:35.752 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:00:35.753 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 10:00:38.995 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 10:00:38.996 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 10:00:41.111 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 10:00:43.211 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 10:00:45.293 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 10:00:47.381 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 10:01:03.550 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 10:01:10.709 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:01:10.710 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 10:01:14.237 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 10:01:14.240 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 10:01:16.391 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 10:01:18.489 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 10:01:20.593 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 10:01:22.703 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 10:01:38.861 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 10:01:45.194 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:01:45.202 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 10:01:49.323 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 10:01:49.327 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 10:01:51.414 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 10:01:53.487 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 10:01:55.580 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 10:01:57.678 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 10:02:13.817 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 10:02:20.159 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:02:20.160 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:02:21.426 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:02:28.155 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:02:31.270 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 10:02:58.518 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:02:58.519 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:02:59.750 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:03:04.899 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:03:08.009 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 10:03:35.570 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:03:35.572 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:03:36.822 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:03:41.959 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:03:45.055 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 10:04:11.870 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:04:11.874 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:04:12.982 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:04:18.182 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:04:21.292 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 10:04:48.197 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:04:48.203 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:04:48.934 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:04:54.099 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:04:57.213 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 10:05:25.099 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:05:25.105 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:05:26.401 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:05:31.537 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:05:34.650 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 10:06:03.603 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:06:03.605 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:06:04.998 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:06:10.258 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:06:13.348 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 10:06:40.632 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:06:40.637 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:06:42.014 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:06:47.181 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:06:50.270 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 10:21:21.357 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 10:21:28.933 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 10:21:29.114 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 10:21:29.334 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 10:21:29.567 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 10:21:29.728 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 10:21:39.894 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 10:21:48.145 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 10:21:55.990 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 10:21:56.121 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 10:21:56.300 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 10:21:56.468 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 10:21:56.556 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 10:22:06.674 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 10:22:12.929 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 10:22:20.804 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 10:22:21.087 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 10:22:21.294 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 10:22:21.403 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 10:22:21.498 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 10:22:31.602 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 10:22:38.600 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 10:22:45.479 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 10:22:45.794 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 10:22:46.034 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 10:22:46.176 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 10:22:46.307 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 10:22:56.396 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 10:23:03.230 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 10:23:10.380 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 10:23:10.598 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 10:23:10.820 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 10:23:11.021 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 10:23:11.122 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 10:23:21.231 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 10:23:27.297 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 10:23:34.485 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 10:23:34.692 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 10:23:34.871 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 10:23:35.039 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 10:23:35.131 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 10:23:45.262 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 10:23:52.302 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 10:23:58.957 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 10:23:59.180 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 10:23:59.362 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 10:23:59.482 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 10:23:59.563 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 10:24:09.676 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 10:24:15.827 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 10:24:21.504 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 10:24:21.828 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 10:24:22.051 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 10:24:22.196 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 10:24:22.276 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 10:24:32.398 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 10:24:38.905 [main] SignUpStepDefs - User navigates to the signuppage
+[INFO ] 2024-01-24 10:24:45.854 [main] SignUpStepDefs - the user enters their first name 
+[INFO ] 2024-01-24 10:24:45.977 [main] SignUpStepDefs - the user enters their last name 
+[INFO ] 2024-01-24 10:24:46.063 [main] SignUpStepDefs - the user enters their email 
+[INFO ] 2024-01-24 10:24:46.347 [main] SignUpStepDefs - the user enters their password 
+[INFO ] 2024-01-24 10:24:46.461 [main] SignUpStepDefs - the user click on create botton 
+[INFO ] 2024-01-24 10:24:56.550 [main] SignUpStepDefs - the user should be registered successfully 
+[INFO ] 2024-01-24 10:25:03.036 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 10:25:06.573 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 10:25:11.003 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 10:26:04.098 [main] LoginStepDefs - Displayed Message
+[INFO ] 2024-01-24 10:26:10.549 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 10:26:13.689 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 10:26:18.008 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 10:26:28.713 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 10:26:32.269 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 10:26:36.564 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 10:26:47.868 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 10:26:51.092 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 10:26:55.611 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 10:27:48.708 [main] LoginStepDefs - Displayed Message
+[INFO ] 2024-01-24 10:28:17.609 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 10:28:21.054 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 10:28:25.372 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 10:29:18.450 [main] LoginStepDefs - Displayed Message
+[INFO ] 2024-01-24 10:29:45.009 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 10:29:48.193 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 10:29:52.595 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 10:30:02.363 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 10:30:05.780 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 10:30:10.081 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 10:30:20.720 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 10:30:24.377 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 10:30:28.631 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 10:31:21.726 [main] LoginStepDefs - Displayed Message
+[INFO ] 2024-01-24 10:31:48.831 [main] LoginStepDefs - User navigates to the loginpage
+[INFO ] 2024-01-24 10:31:53.283 [main] LoginStepDefs - User enters the user name and password
+[INFO ] 2024-01-24 10:31:57.502 [main] LoginStepDefs - User clicks on the login button
+[INFO ] 2024-01-24 10:32:50.595 [main] LoginStepDefs - Displayed Message
+[INFO ] 2024-01-24 10:33:17.706 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:33:17.708 [main] Searchsteps - entering valid product name
+[INFO ] 2024-01-24 10:33:18.232 [main] Searchsteps - clicking on search button
+[INFO ] 2024-01-24 10:33:27.646 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:33:27.647 [main] Searchsteps - entering valid product name
+[INFO ] 2024-01-24 10:33:28.435 [main] Searchsteps - clicking on search button
+[INFO ] 2024-01-24 10:33:36.733 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:33:36.740 [main] Searchsteps - entering valid product name
+[INFO ] 2024-01-24 10:33:37.587 [main] Searchsteps - clicking on search button
+[INFO ] 2024-01-24 10:33:45.205 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:33:45.210 [main] Searchsteps - entering valid product name
+[INFO ] 2024-01-24 10:33:46.992 [main] Searchsteps - clicking on search button
+[INFO ] 2024-01-24 10:33:56.091 [main] Searchsteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:33:56.093 [main] Searchsteps - entering valid product name
+[INFO ] 2024-01-24 10:33:58.278 [main] Searchsteps - clicking on search button
+[INFO ] 2024-01-24 10:34:08.086 [main] FilterStepdefinition - User navigate to product catlog page
+[INFO ] 2024-01-24 10:34:08.089 [main] FilterStepdefinition - Item searched
+[INFO ] 2024-01-24 10:34:13.583 [main] FilterStepdefinition - Drag item price element
+[INFO ] 2024-01-24 10:34:17.194 [main] FilterStepdefinition - User choose the color of product
+[INFO ] 2024-01-24 10:34:20.303 [main] FilterStepdefinition - Filter operation performed successfully.
+[INFO ] 2024-01-24 10:34:27.013 [main] addtocarthome - Navigating to the URL
+[INFO ] 2024-01-24 10:34:27.015 [main] addtocarthome - user searches for sofa
+[INFO ] 2024-01-24 10:34:28.184 [main] addtocarthome - Then adds item to cart
+[INFO ] 2024-01-24 10:34:30.426 [main] addtocarthome - Then removes item from cart
+[INFO ] 2024-01-24 10:34:39.725 [main] addtocarthome - Navigating to the URL
+[INFO ] 2024-01-24 10:34:39.727 [main] addtocarthome - user searches for table
+[INFO ] 2024-01-24 10:34:40.882 [main] addtocarthome - Then adds item to cart
+[INFO ] 2024-01-24 10:34:54.561 [main] CheckoutSteps - User is on login page and add item to cart
+[INFO ] 2024-01-24 10:38:39.372 [main] CheckoutSteps - User is on login page and add item to cart
+[INFO ] 2024-01-24 10:42:18.930 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:42:18.938 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 10:42:22.142 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 10:42:22.144 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 10:42:24.241 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 10:42:26.325 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 10:42:28.423 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 10:42:30.519 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 10:42:46.675 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 10:42:52.084 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:42:52.088 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 10:42:55.221 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 10:42:55.222 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 10:42:57.360 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 10:42:59.419 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 10:43:01.512 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 10:43:03.615 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 10:43:19.768 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 10:43:26.159 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:43:26.162 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 10:43:29.380 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 10:43:29.381 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 10:43:31.484 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 10:43:33.543 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 10:43:35.634 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 10:43:37.750 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 10:43:53.903 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 10:44:01.207 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:44:01.211 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 10:44:05.870 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 10:44:05.871 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 10:44:07.954 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 10:44:10.019 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 10:44:12.080 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 10:44:14.153 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 10:44:30.258 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 10:44:37.291 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:44:37.292 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 10:44:40.498 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 10:44:40.500 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 10:44:42.583 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 10:44:44.641 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 10:44:46.705 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 10:44:48.777 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 10:45:04.891 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 10:45:12.154 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:45:12.155 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 10:45:15.435 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 10:45:15.436 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 10:45:17.558 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 10:45:19.649 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 10:45:21.725 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 10:45:23.830 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 10:45:39.977 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 10:46:12.940 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:46:12.943 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 10:46:16.020 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 10:46:16.025 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 10:46:18.112 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 10:46:20.204 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 10:46:22.285 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 10:46:24.478 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 10:46:40.625 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 10:46:49.339 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:46:49.343 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 10:46:52.364 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 10:46:52.369 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 10:46:54.474 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 10:46:56.569 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 10:46:58.661 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 10:47:00.784 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 10:47:16.950 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 10:47:23.664 [main] ContactUsSteps - Chilternoak Furniture Homepage
+[INFO ] 2024-01-24 10:47:23.666 [main] ContactUsSteps - Clicking on ContactUs link
+[INFO ] 2024-01-24 10:47:26.519 [main] ContactUsSteps - Capturing the title of the page
+[INFO ] 2024-01-24 10:47:26.520 [main] ContactUsSteps - Entering the name
+[INFO ] 2024-01-24 10:47:28.624 [main] ContactUsSteps - Entering the mail
+[INFO ] 2024-01-24 10:47:30.727 [main] ContactUsSteps - Entering the Phone
+[INFO ] 2024-01-24 10:47:32.807 [main] ContactUsSteps - Entering the message
+[INFO ] 2024-01-24 10:47:34.924 [main] ContactUsSteps - Click on the send button
+[INFO ] 2024-01-24 10:47:51.099 [main] ContactUsSteps - Messaged displayed
+[INFO ] 2024-01-24 10:47:56.908 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:47:56.912 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:47:57.380 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:48:03.724 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:48:33.852 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 10:49:00.306 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:49:00.308 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:49:00.742 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:49:05.904 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:49:36.025 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 10:50:02.594 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:50:02.595 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:50:03.098 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:50:08.251 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:50:38.397 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 10:51:05.579 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:51:05.580 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:51:06.091 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:51:11.222 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:51:41.325 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 10:52:08.393 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:52:08.395 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:52:08.885 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:52:14.011 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:52:44.113 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 10:53:10.616 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:53:10.618 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:53:11.147 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:53:16.264 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:53:46.409 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 10:54:13.535 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:54:13.536 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:54:14.149 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:54:19.341 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:54:51.632 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 10:55:12.503 [main] SubscribeSteps - user in homepage
+[INFO ] 2024-01-24 10:55:12.504 [main] SubscribeSteps - user click Subscribe email text box
+[INFO ] 2024-01-24 10:55:14.042 [main] SubscribeSteps - user fills the details from given sheetname {string} and rownumber {int}
+[INFO ] 2024-01-24 10:55:19.287 [main] SubscribeSteps - user clicks on subscribe button
+[INFO ] 2024-01-24 10:55:49.377 [main] SubscribeSteps - it shows sucess message {string}
+[INFO ] 2024-01-24 11:33:53.311 [main] CheckoutSteps - User is on login page and add item to cart
